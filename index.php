@@ -1,5 +1,5 @@
 <?php
 
-echo "depploy php 1 ";
+echo "depploy php 2 ";
 
 ?> 
