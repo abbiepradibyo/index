@@ -1,5 +1,5 @@
 <?php
 
-echo "depploy php 5 ";
+echo "depploy php 7 ";
 
 ?> 
